@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             Lab13AnimacionesTheme {
-                Ejercicio3Screen()
+                Ejercicio4Screen()
             }
         }
     }
